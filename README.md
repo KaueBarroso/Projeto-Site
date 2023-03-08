@@ -1,2 +1,4 @@
 # Projeto-Site
- Projeto de um site no curso m video
+ Primeiro Projeto com HTML, JS, e CSS;
+ Projeto de um site no Curso no Video;
+ 
